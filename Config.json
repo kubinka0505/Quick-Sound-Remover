@@ -1,0 +1,21 @@
+{
+	"Working Directory": "./Audio",
+	"Remove Permamently": true,
+	"Window": {
+		"Size": {
+			"Width": 404,
+			"Height": 104
+		},
+		"Background Color": "#29487D",
+		"Removed Color": "Coral1"
+	},
+	"Audio": {
+		"Samplerate": 48000,
+		"Buffer Size": 16384
+	},
+	"Controls": {
+		"Next": "<Right>",
+		"Previous": "<Left>",
+		"Remove": "<Delete>"
+	}
+}
